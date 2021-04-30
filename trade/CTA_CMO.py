@@ -14,7 +14,6 @@ cmo_value = 10
 
 
 # 导入第三方库
-# 如果本机电脑没有这些库，需要使用pip安装
 import talib
 import numpy as np
 
